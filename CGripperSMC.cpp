@@ -1,0 +1,126 @@
+/***********************************************************************
+ * Module:  CGripperSMC.cpp
+ * Author:  Anton
+ * Modified: 28 декабря 2017 г. 17:11:54
+ * Purpose: Implementation of the class CGripperSMC
+ ***********************************************************************/
+
+#include "CGripperSMC.h"
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::ReturnToOrigin()
+// Purpose:    Implementation of CGripperSMC::ReturnToOrigin()
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void CGripperSMC::ReturnToOrigin(void)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::SetThrust(int Thrust)
+// Purpose:    Implementation of CGripperSMC::SetThrust()
+// Parameters:
+// - Thrust
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void CGripperSMC::SetThrust(int Thrust)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::GetThrust()
+// Purpose:    Implementation of CGripperSMC::GetThrust()
+// Return:     int
+////////////////////////////////////////////////////////////////////////
+
+int CGripperSMC::GetThrust(void)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::GetAlarms()
+// Purpose:    Implementation of CGripperSMC::GetAlarms()
+// Return:     std::vector<int>
+////////////////////////////////////////////////////////////////////////
+
+std::vector<int> CGripperSMC::GetAlarms(void)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::ResetAlarms()
+// Purpose:    Implementation of CGripperSMC::ResetAlarms()
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void CGripperSMC::ResetAlarms(void)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::Move(double Value)
+// Purpose:    Implementation of CGripperSMC::Move()
+// Parameters:
+// - Value
+// Return:     int
+////////////////////////////////////////////////////////////////////////
+
+int CGripperSMC::Move(double Value)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::GetPostition()
+// Purpose:    Implementation of CGripperSMC::GetPostition()
+// Return:     double
+////////////////////////////////////////////////////////////////////////
+
+double CGripperSMC::GetPostition(void)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::RelativeMove(double Value)
+// Purpose:    Implementation of CGripperSMC::RelativeMove()
+// Parameters:
+// - Value
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void CGripperSMC::RelativeMove(double Value)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::SetSpeed(int Value)
+// Purpose:    Implementation of CGripperSMC::SetSpeed()
+// Parameters:
+// - Value
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void CGripperSMC::SetSpeed(int Value)
+{
+   // TODO : implement
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       CGripperSMC::GetSpeed()
+// Purpose:    Implementation of CGripperSMC::GetSpeed()
+// Return:     int
+////////////////////////////////////////////////////////////////////////
+
+int CGripperSMC::GetSpeed(void)
+{
+   // TODO : implement
+}
